@@ -1,0 +1,4 @@
+staffID , FirstName, LastName, Username, password ,bookrecord
+a01      , Wonder   , Woman   ,ww01,null,null
+02      , Cambe    , Tane    ,ct02,null,null
+03      , Nani     , Cure    ,nc03,null,null

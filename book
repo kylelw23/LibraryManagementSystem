@@ -1,0 +1,6 @@
+author             , title               , ISBN  , Location  , availability
+Enerst Hemingway   , Old man and the sea , 12345 , SecA      ,Reserved(sp01)
+Enerst Hemingway   , The sun also rises  , 12346 , SecB      , available
+Stephen King       , IT                  , 65894 , SecC      , available
+William ShakeSpeare, Hamlet              , 98564 , SecA      ,Reserved(rh02)
+William ShakeSpeare, Romeo and Juliet    , 98563 , SecB      , available

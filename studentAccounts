@@ -1,0 +1,4 @@
+studentID , FirstName , LastName , Username , Password , Degree     , course
+a01		  , Super     , Hero     ,sp01,null, BComScie   , WebDesign
+02        , Robin     , Hood     ,rh02,null, BScience   , Chemistry
+03        , Bat       , man      ,bm03,null, BCommerce  , Accounting
